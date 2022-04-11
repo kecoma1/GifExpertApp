@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on <GifGrid />: Should show the component correctly 1`] = `
+<Fragment>
+  <h3>
+    Hola
+  </h3>
+  <p>
+    Loading
+  </p>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="aaa"
+      key="aaa"
+      title="bbb"
+      url="https://ladlffa//ananv"
+    />
+  </div>
+</Fragment>
+`;
